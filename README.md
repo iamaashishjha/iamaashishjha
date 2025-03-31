@@ -9,7 +9,7 @@ With **6+ years of experience**, I specialize in developing **scalable web appli
 ✅ **Frontend:** JavaScript (React.js)  
 ✅ **Databases:** MySQL, PostgreSQL, SQL, Redis, MongoDB  
 ✅ **DevOps & Infrastructure:** Docker, Kubernetes, Apache2, Nginx  
-✅ **CI/CD & Automation:** GitLab CI/CD, Jenkins, Deployment Pipelines  
+✅ **CI/CD & Automation:** Github Actions, GitLab CI/CD, Jenkins, Deployment Pipelines  
 
 I have a strong background in building high-performance, secure, and optimized systems. Whether it's **designing APIs, implementing caching strategies, managing cloud servers, or automating deployments**, I bring efficiency and reliability to every project.  
 
