@@ -2,7 +2,7 @@
 
 🚀 **Experienced Software Engineer | PHP (Laravel), Python (Django), JavaScript (Node.js, React.js)**  
 
-With **6+ years of experience**, I specialize in developing **scalable web applications** using **monolithic and microservices architecture**. My expertise spans across **backend and frontend development**, database management, cloud infrastructure, and CI/CD automation.  
+With **5+ years of experience**, I specialize in developing **scalable web applications** using **monolithic and microservices architecture**. My expertise spans across **backend and frontend development**, database management, cloud infrastructure, and CI/CD automation.  
 
 ### **Tech Stack & Expertise:**  
 ✅ **Backend:** PHP (Laravel, Lumen), Python (Django), Node.js, ASP.NET
