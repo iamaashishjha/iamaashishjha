@@ -20,3 +20,4 @@ I have a strong background in building high-performance, secure, and optimized s
 🔄 **Automation & DevOps:** I streamline development workflows with **CI/CD and containerization**.  
 
 Let's collaborate to **build, optimize, and scale** your next big project! 🚀  
+![](https://komarev.com/ghpvc/?username=iamaashishjha)
