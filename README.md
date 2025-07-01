@@ -33,4 +33,7 @@ I have a strong background in building high-performance, secure, and optimized s
 
 ---
 
+![Aashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamaashishjha&show_icons=true&theme=github_dark)
+
+
 ✅ Let’s collaborate to **build, optimize, and scale** your next big project! 🚀
