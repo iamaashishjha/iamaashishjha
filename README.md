@@ -1,39 +1,59 @@
-## **👨‍💻 Profile Overview**
+<!-- Profile Header -->
+<h1 align="center">👨‍💻 Aashish Jha</h1>
+<p align="center">
+  🚀 <strong>Experienced Software Engineer</strong> <br>
+  <em>PHP (Laravel), Python (Django), JavaScript (Node.js, React.js)</em>
+</p>
 
-🚀 **Experienced Software Engineer | PHP (Laravel), Python (Django), JavaScript (Node.js, React.js)**
-
-With **5+ years of experience**, I specialize in developing **scalable web applications** using **monolithic and microservices architecture**. My expertise spans across **backend and frontend development**, database management, cloud infrastructure, and CI/CD automation.
-
----
-
-### 🧠 **Tech Stack & Expertise:**
-
-* ✅ **Backend:** PHP (Laravel, Lumen), Python (Django), Node.js, ASP.NET
-* ✅ **Frontend:** JavaScript (React.js)
-* ✅ **Databases:** MySQL, PostgreSQL, SQL, Redis, MongoDB
-* ✅ **DevOps & Infrastructure:** Docker, Kubernetes, Apache2, Nginx
-* ✅ **CI/CD & Automation:** GitHub Actions, GitLab CI/CD, Jenkins, Deployment Pipelines
-
-I have a strong background in building high-performance, secure, and optimized systems. Whether it's **designing APIs, implementing caching strategies, managing cloud servers, or automating deployments**, I bring efficiency and reliability to every project.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamaashishjha&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
 ---
 
-### 🌟 **Why Work With Me?**
+## 📌 **Profile Overview**
 
-* 💡 **Problem-Solver:** I focus on writing **clean, maintainable, and scalable code**
-* 🚀 **Performance-Oriented:** I optimize applications for **speed, security, and scalability**
-* 🛠 **Full-Stack Expertise:** From **database design** to **frontend UX/UI**, I ensure seamless integration
-* 🔄 **Automation & DevOps:** I streamline development workflows with **CI/CD and containerization**
+With **5+ years of experience**, I specialize in developing **scalable web applications** using **monolithic and microservices architecture**.  
+My expertise spans across **backend and frontend development**, database management, cloud infrastructure, and CI/CD automation.
 
 ---
 
-### 📊 **GitHub Stats & Insights**
+## 🧠 **Tech Stack & Expertise**
 
-<img src="https://komarev.com/ghpvc/?username=iamaashishjha&style=flat-square&color=blue" alt="Profile Views" width="120"/>
+| Category         | Technologies                                                                 |
+|------------------|------------------------------------------------------------------------------|
+| 🛠 **Backend**     | `PHP (Laravel, Lumen)`, `Python (Django)`, `Node.js`, `ASP.NET`             |
+| 🎨 **Frontend**    | `JavaScript (React.js)`                                                     |
+| 💾 **Databases**   | `MySQL`, `PostgreSQL`, `SQL`, `Redis`, `MongoDB`                            |
+| ⚙️ **DevOps**      | `Docker`, `Kubernetes`, `Apache2`, `Nginx`                                  |
+| 🔁 **CI/CD**       | `GitHub Actions`, `GitLab CI/CD`, `Jenkins`, `Deployment Pipelines`         |
 
 ---
 
-![Aashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamaashishjha&show_icons=true&theme=github_dark)
+## 🌟 **Why Work With Me?**
 
+- 💡 **Problem-Solver:** I write **clean, maintainable, and scalable code**
+- 🚀 **Performance-Oriented:** I build for **speed, security, and scalability**
+- 🧩 **Full-Stack Skills:** From **DB design** to **frontend UX**, I ensure smooth delivery
+- 🔄 **Automation Expert:** I simplify workflows using **CI/CD & containers**
 
-✅ Let’s collaborate to **build, optimize, and scale** your next big project! 🚀
+---
+
+## 📊 **GitHub Stats & Insights**
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamaashishjha&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamaashishjha&layout=compact&theme=github_dark&hide_border=true&border_radius=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=iamaashishjha&theme=github-dark&hide_border=true&border_radius=8)
+
+</div>
+
+---
+
+## 🤝 **Let’s Build Together**
+
+I'm always open to **collaboration**, **new opportunities**, and **tech challenges**.  
+Let’s **build, optimize, and scale** your next big project! 🚀
