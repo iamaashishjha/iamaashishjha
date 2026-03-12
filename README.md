@@ -102,14 +102,6 @@ GitHub Actions • GitLab CI/CD • Jenkins
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamaashishjha&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamaashishjha&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=iamaashishjha&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -118,12 +110,6 @@ GitHub Actions • GitLab CI/CD • Jenkins
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamaashishjha&theme=github-dark)
-
----
-
-## 🏆 GitHub Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=iamaashishjha&theme=darkhub&margin-w=10&margin-h=10)
 
 ---
 
